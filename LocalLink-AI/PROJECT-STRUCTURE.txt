@@ -1,0 +1,18 @@
+LocalLink-AI/
+  backend/
+    app.py                 Flask REST API + SQLAlchemy models + seed data
+    requirements.txt       Python dependencies
+    .env.example           Optional environment settings
+  frontend/
+    src/App.jsx            Complete role-based React application and 21 pages
+    src/styles.css         Responsive purple/lavender design system
+    src/main.jsx           React entry point
+    package.json           Frontend dependencies and scripts
+    vite.config.js
+    tailwind.config.js
+    postcss.config.js
+  docs/
+    LocalLink-AI-UI-Reference.png
+  start_backend.bat
+  start_frontend.bat
+  README.md
